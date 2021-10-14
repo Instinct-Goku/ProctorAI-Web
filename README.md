@@ -6,3 +6,14 @@
 1. Web platform 
 2. The AI proctor which uses webcam to detect cheating
 
+### Prerequisites
+
+Install python modules
+<pre>
+pip install requirements.txt
+</pre>
+
+To run the app
+<pre>
+python app.py
+</pre>
